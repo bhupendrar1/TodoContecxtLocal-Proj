@@ -38,11 +38,13 @@ This app allows users to add, edit, delete, and mark todos as completed, with da
 3.  Install dependencies
 
    -- npm install
+   
 4.  Start the development server
 
    --  npm run dev
 
 🧠 How It Works
+
 🔹 Context API
 
 * TodoContext provides global access to:
