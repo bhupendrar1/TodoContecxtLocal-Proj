@@ -26,42 +26,12 @@ This app allows users to add, edit, delete, and mark todos as completed, with da
 
 ---
 
-📂 Project Structure
-
-TodoContext/
-│
-├── src/
-│   │
-│   ├── assets/
-│   │   └── react.svg
-│   │
-│   ├── components/
-│   │   ├── TodoForm.jsx
-│   │   ├── TodoItem.jsx
-│   │   └── index.js
-│   │
-│   ├── contexts/
-│   │   ├── TodoContext.js
-│   │   └── index.js
-│   │
-│   ├── App.jsx
-│   ├── App.css
-│   ├── main.jsx
-│   └── index.js
-│
-├── .gitignore
-├── README.md
-├── eslint.config.js
-├── index.html
-├── package-lock.json
-├── package.json
-└── vite.config.js
-
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/todo-context-app.git
+   git clone https://github.com/bhupendrar1/TodoContecxtLocal-Proj.git
+   
 2. Navigate to project directory
 
      -- cd todo-context-app
