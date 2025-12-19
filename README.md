@@ -57,3 +57,55 @@ TodoContext/
 ├── package.json
 └── vite.config.js
 
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/todo-context-app.git
+2. Navigate to project directory
+
+     -- cd todo-context-app
+3.  Install dependencies
+
+   -- npm install
+4.  Start the development server
+
+   --  npm run dev
+
+🧠 How It Works
+🔹 Context API
+
+* TodoContext provides global access to:
+
+  -- todos list
+
+  -- addTodo
+
+  -- updateTodo
+
+  -- deleteTodo
+
+  --  toggleComplete
+
+🔹 LocalStorage
+
+*  Todos are automatically saved to localStorage
+
+   --- Data persists even after browser refresh
+
+📌 Future Improvements
+
+  🔍 Search todos
+
+   📅 Due dates
+
+   🌙 Dark/Light mode
+
+  📱 Mobile responsiveness
+
+  🙋‍♂️ Author
+
+  Bhupendra Singh
+  Made with ❤️ using React
+
+  ⭐ If you like this project, don’t forget to star the repository!
